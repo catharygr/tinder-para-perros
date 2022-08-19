@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: grid;
+  place-items: center;
+  background-color: rgb(223,234,226);
+}
+
+.container {
+  max-width: 500px;
+  padding: 4px;
+}
+
+img {
+  max-width: 100%;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 5px;
+  background-color: white;
+
+}
+
+header > img {
+  max-height: 25px;
+}
+
+.contenido {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+}
+
+.image {
+ 
+  
+}
+
+.detalles {
+ 
+}
