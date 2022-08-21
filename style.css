@@ -90,3 +90,11 @@ header > img {
 .footer .btn:last-child {
   background-color: rgb(225,254,244);
 }
+
+#like {
+  display: none;
+} 
+
+#nope {
+  display: none;
+}
