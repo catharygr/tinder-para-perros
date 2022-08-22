@@ -33,4 +33,3 @@ export const dogs = [
     }
 ]
 
-// Remember to export the data!
