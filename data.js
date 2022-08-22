@@ -3,7 +3,7 @@ export const dogs = [
         name: "Simba",
         avatar: "images/dog-simba.jpg",
         age: 21,
-        bio: "Qué pasa tio?",
+        bio: "Alguna perrita dispuesta a salir conmigo?",
         hasBeenSwiped: false,
         hasBeenLiked: false
     },
@@ -11,14 +11,15 @@ export const dogs = [
         name: "Rex",
         avatar: "images/dog-rex.jpg",
         age: 25,
-        bio: "Art. Literature. Natural wine. Yoga.",
+        bio: "Art. Literature. Natural y libre. Yoga.",
         hasBeenSwiped: false,
         hasBeenLiked: false
-    },{
-        name: "Bella",
-        avatar: "images/dog-bella.jpg",
-        age: 43,
-        bio: "Yup, that's my owner. U can meet him if you want",
+    },
+    {
+        name: "Aivar",
+        avatar: "images/dog-aivar.jpg",
+        age: 32,
+        bio: "Hola soy un perro canario. Alguna perrita que me quiera",
         hasBeenSwiped: false,
         hasBeenLiked: false
     },
@@ -26,7 +27,7 @@ export const dogs = [
         name: "Teddy",
         avatar: "images/dog-teddy.jpg",
         age: 30,
-        bio: "How you doin?",
+        bio: "Os gusta mi mirada?",
         hasBeenSwiped: false,
         hasBeenLiked: false
     }
