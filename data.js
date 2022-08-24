@@ -44,7 +44,7 @@ export const dogs = [
         name: "Duda",
         avatar: "images/dog-duda.jpg",
         age: 18,
-        bio: "Soy una perrita de agua, os animáis a conocerme",
+        bio: "Soy una perrita de agua, os animáis a conocerme?",
         hasBeenSwiped: false,
         hasBeenLiked: false
     }
