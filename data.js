@@ -30,6 +30,23 @@ export const dogs = [
         bio: "Os gusta mi mirada?",
         hasBeenSwiped: false,
         hasBeenLiked: false
+    },
+    {
+            name: "Zuhur",
+            avatar: "images/dog-zuhur.jpg",
+            age: 60,
+            bio: "Soy un perro vasco",
+            hasBeenSwiped: false,
+            hasBeenLiked: false
+        
+    },
+    {
+        name: "Duda",
+        avatar: "images/dog-duda.jpg",
+        age: 18,
+        bio: "Soy una perrita de agua, os animáis a conocerme",
+        hasBeenSwiped: false,
+        hasBeenLiked: false
     }
 ]
 
