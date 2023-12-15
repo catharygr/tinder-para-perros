@@ -2,7 +2,7 @@ export const dogs = [
   {
     name: "Simba",
     avatar: "images/dog-simba.jpg",
-    age: 21,
+    age: 30,
     bio: "Alguna perrita dispuesta a salir conmigo?",
     hasBeenSwiped: false,
     hasBeenLiked: false,
